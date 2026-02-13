@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-I'm Felipe, a Golang developer that loves code, RPG and esports.
-
-#### 🔭 I’m currently working on
-
-Golang SteamWebApi wrapper
+I'm Felipe, a Golang Software Engineer that loves code, RPG and esports.
 
 #### 📫 How to reach me
 
